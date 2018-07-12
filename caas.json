@@ -1,0 +1,48 @@
+{
+    "name": "dxpassets",
+    "path": "/content/entities/asset_service/dxpassets",
+    "title": "dxpassets",
+    "assets": [
+        {
+            "href": "https://stage.mastercard.us/content/entities/asset_service/dxpassets/jcr:content/assets/714x470_m504_ucl_player_escorts_sf_marquee__L.img.png",
+            "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/714x470_m504_ucl_player_escorts_sf_marquee__L",
+            "type": "wcm/foundation/components/image",
+            "localpath": "/714x470_m504_ucl_player_escorts_sf_marquee__L",
+            "dam.path": "/content/dam/dxpcontents/714x470_m504_ucl_player_escorts_sf_marquee__L.jpg",
+            "dam.type": "image/jpeg",
+            "dam.lastModified": "Thu Apr 19 2018 01:22:34 GMT-0500",
+            "dam.length": 114891
+        },
+        {
+            "href": "https://stage.mastercard.us/content/entities/asset_service/dxpassets/jcr:content/assets/1520451911488.img.png",
+            "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/1520451911488",
+            "type": "wcm/foundation/components/image",
+            "localpath": "/1520451911488",
+            "dam.path": "/content/dam/dxpcontents/1520451911488.jpg",
+            "dam.type": "image/jpeg",
+            "dam.lastModified": "Thu Apr 19 2018 01:06:30 GMT-0500",
+            "dam.length": 485331
+        },
+        {
+            "href": "https://stage.mastercard.us/content/entities/asset_service/dxpassets/jcr:content/assets/priceless1.img.png",
+            "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/priceless1",
+            "type": "wcm/foundation/components/image",
+            "localpath": "/priceless1",
+            "dam.path": "/content/dam/dxpcontents/priceless1.jpg",
+            "dam.type": "image/jpeg",
+            "dam.lastModified": "Thu Apr 19 2018 01:06:06 GMT-0500",
+            "dam.length": 605269
+        },
+        {
+            "href": "https://stage.mastercard.us/content/dam/dxp-contentfragments/dxpcontents",
+            "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/dxpcontents",
+            "type": "nt:unstructured",
+            "localpath": "/dxpcontents",
+            "dam.path": "/content/dam/dxp-contentfragments/dxpcontents",
+            "dam.type": "text/html",
+            "dam.lastModified": "Thu Apr 19 2018 01:08:59 GMT-0500",
+            "dam.length": 855
+        }
+    ],
+    "lastModified": "Tue Jul 10 2018 16:37:45 GMT-0500"
+}
