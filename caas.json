@@ -4,7 +4,7 @@
     "title": "dxpassets",
     "assets": [
         {
-            "href": "https://stage.mastercard.us/content/entities/asset_service/dxpassets/jcr:content/assets/714x470_m504_ucl_player_escorts_sf_marquee__L.img.png",
+            "href": "https://github.com/kragavan/sample/blob/master/mp_button.png",
             "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/714x470_m504_ucl_player_escorts_sf_marquee__L",
             "type": "wcm/foundation/components/image",
             "localpath": "/714x470_m504_ucl_player_escorts_sf_marquee__L",
@@ -12,8 +12,8 @@
             "dam.type": "image/jpeg",
             "dam.lastModified": "Thu Apr 19 2018 01:22:34 GMT-0500",
             "dam.length": 114891
-        },
-        {
+        }
+        /* {
             "href": "https://stage.mastercard.us/content/entities/asset_service/dxpassets/jcr:content/assets/1520451911488.img.png",
             "path": "/content/entities/asset_service/dxpassets/jcr:content/assets/1520451911488",
             "type": "wcm/foundation/components/image",
@@ -42,7 +42,7 @@
             "dam.type": "text/html",
             "dam.lastModified": "Thu Apr 19 2018 01:08:59 GMT-0500",
             "dam.length": 855
-        }
+        } */
     ],
     "lastModified": "Tue Jul 10 2018 16:37:45 GMT-0500"
 }
